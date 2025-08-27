@@ -16,9 +16,13 @@ If you would like to nominate anyone (including yourself!) as a speaker, or have
 Upcoming Talk
 ======
 30 Oct 2025 at 09:00 IST - 10:00 IST
+
 Speaker: Prof. ABC
+
 Host: PB Sujit
+
 Training Humans to Use Robots
+
 [Google Scholar of the speaker](https:scholar.google.com)
 
 
