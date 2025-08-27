@@ -22,7 +22,7 @@ repository               : "robotic-talks/robotic-talks.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "robot_images.jpg"
   name             : "Robotic-Talks"
   pronouns         : # example: "she/her"  
   bio              : "Advancing Robotics Research"
