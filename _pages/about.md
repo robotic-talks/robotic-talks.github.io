@@ -1,11 +1,25 @@
 ---
 permalink: /
-title: "Robotic-Talks"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+Robotic-Talks is a organization dedicated to bridging the gap between cutting-edge robotics research and public understanding by conducting in-depth interviews with leading researchers and scientists. We chat with scientists and engineers from universities, labs, and companies to learn what they're actually building, what keeps them up at night, and where they think robotics is headed next. Our goal is simple: make robotics research more accessible and relatable by sharing the real stories behind the robots, algorithms, and innovations that are quietly changing our world.
+
+
+If you would like to nominate anyone (including yourself!) as a speaker, or have any feedback whatsoever about the format or content about our talks, please visit our [feedback]() page.
+
+Upcoming Talk
+======
+30 Oct 2025 at 09:00 IST - 10:00 IST
+Speaker: Prof. ABC
+Host: PB Sujit
+Training Humans to Use Robots
+[Google Scholar of the speaker](https:scholar.google.com)
 
 
 <!-- 
